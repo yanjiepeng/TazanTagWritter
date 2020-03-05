@@ -1,5 +1,6 @@
 # TazanTagWritter
-NFC写入工具，包括对NTAG213加密解密的功能
+NFC写入工具，包括对NTAG213开启密码保护和关闭密码保护的功能
+
 NTAG213密码保护开启(采用MifareUltralight配置)：
 ```
 /**
