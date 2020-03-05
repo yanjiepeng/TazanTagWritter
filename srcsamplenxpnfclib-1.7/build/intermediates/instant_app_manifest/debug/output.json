@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_APP_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":12,"versionName":"12","enabled":true,"outputFile":"srcsamplenxpnfclib-1.7-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.nxp.mifaresdksample","split":"","minSdkVersion":"19"}}]

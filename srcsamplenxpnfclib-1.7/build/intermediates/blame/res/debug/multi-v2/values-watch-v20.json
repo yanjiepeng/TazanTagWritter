@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "J:\\Project\\TagWritter\\srcsamplenxpnfclib-1.7\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\1017\\.gradle\\caches\\transforms-2\\files-2.1\\b6b08f45853058e96eb2c0f6b0a8cde2\\appcompat-1.0.0\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
