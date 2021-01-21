@@ -2,6 +2,7 @@
 NFC写入工具，包括对NTAG213开启密码保护和关闭密码保护的功能
 
 NTAG213密码保护开启(采用MifareUltralight配置)：
+配合食用：https://www.cnblogs.com/yjpjy/p/12420006.html
 ```
 /**
      * 写入NFC设置密码
